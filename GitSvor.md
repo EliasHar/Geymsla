@@ -11,3 +11,7 @@
  - git log - sýnir hvaða commits hafa verið gerð á milli tíma bilinu sem er gefið 
  - git checkout - leyfir manni að fara á milli branches gerðar með git branch
  - git branch - leyfir manni að gera, breyta eða eyða branches
+4.
+ - Version Control - Er til að skoða breytingar á documents, forritum og síðum
+5. 
+ - 

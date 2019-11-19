@@ -18,4 +18,4 @@
 6.
  - Það ætti að gera færslur eftir hverja breytingu sem er hægt að commenta hvað var gert
 7.
- - 
+ - Working Directory er þar sem notandi vinnur og lætur hann það yfir á Staging Area áður en hann gerir commit í repository

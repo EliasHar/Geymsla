@@ -16,4 +16,6 @@
 5. 
  - Helstu kostir við GIT eru að það er gott þegar margir eru að vinna saman í einu verkefni og það er alltaf hægt að fara til baka áður en breytingar voru gerðar
 6.
+ - Það ætti að gera færslur eftir hverja breytingu sem er hægt að commenta hvað var gert
+7.
  - 

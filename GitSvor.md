@@ -21,4 +21,5 @@
 7.
  - Working Directory er þar sem notandi vinnur og lætur hann það yfir á Staging Area áður en hann gerir commit í repository
 ### Greinar
-1.
+2.
+ - 43de24

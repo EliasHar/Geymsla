@@ -14,4 +14,6 @@
 4.
  - Version Control - Er til að skoða breytingar á documents, forritum og síðum
 5. 
+ - Helstu kostir við GIT eru að það er gott þegar margir eru að vinna saman í einu verkefni og það er alltaf hægt að fara til baka áður en breytingar voru gerðar
+6.
  - 
